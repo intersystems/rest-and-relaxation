@@ -1,4 +1,4 @@
-# Rest & Relaxation
+# REST & Relaxation
 ### By Michael Smart
 
 __Description:__ An example of a REST web service implemented with ObjectScript that demonstrates a number of development best practices. This is the companion to a live webinar presented by InterSystems Learning Services on December 7, 2017.
